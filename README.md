@@ -68,6 +68,10 @@ india-covid19-dashboard/
 └── README.md # Project documentation
 
 
+📁 Output
+
+
+
 
 
 
