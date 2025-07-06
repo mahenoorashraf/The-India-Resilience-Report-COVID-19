@@ -70,6 +70,8 @@ india-covid19-dashboard/
 
 📁 Output
 
+!<img width="616" height="346" alt="Image" src="https://github.com/user-attachments/assets/94719bd5-1c6a-4e09-bde2-0f3cab3e6853" />
+
 
 
 
